@@ -1,1 +1,3 @@
-Test
+```
+python3.9 setup.py bdist_wheel
+```
